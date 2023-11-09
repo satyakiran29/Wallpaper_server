@@ -126,30 +126,5 @@
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "halloween, new year"
-	},
-	{
-		"name": "New Year",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "new year, new"
-	},
-	{
-		"name": "Annie from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/annie.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
-	},
-	{
-		"name": "Neom from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/wallpapers/neom.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
 	}
 ]
