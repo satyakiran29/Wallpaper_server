@@ -1,7 +1,6 @@
 [
 	{
 		"name": "spark",
-
 		"author": "satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"dimensions": "1080p",
@@ -16,12 +15,6 @@
 		"dimensions": "3200x2560",
 		"copyright": "Unknown",
 		"collections": "landscapes"
-	},
-	{
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
 	},
 	{
 		"name": "ShotB",
@@ -127,39 +120,6 @@
 		"dimensions": "3200x2560",
 		"copyright": "Free (do whatever you want)",
 		"collections": "halloween"
-	},
-	{
-		"name": "New Halloween",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1592887714077-1c2ca9cdcf48?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=vino-li-W1py5swbJZY-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "halloween, new year"
-	},
-	{
-		"name": "New Year",
-		"author": "wallsplash",
-		"url": "https://images.unsplash.com/photo-1546271876-af6caec5fae5?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=andreas-dress-OUSa9MU4zZc-unsplash.jpg&w=640",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "new year, new"
-	},
-	{
-		"name": "Annie from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/annie.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
-	},
-	{
-		"name": "Neom from Assets",
-		"author": "unsplash",
-		"url": "file:///android_asset/wallpapers/neom.jpg",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "assets"
 	}
+	
 ]
