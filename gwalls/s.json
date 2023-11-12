@@ -1,13 +1,31 @@
 [
 	{
-		"name": "spark",
+		"name": "spark 1",
 		"author": "satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
 		"collections": "assets",
 		"featured": true
-	},	
+	},
+	{
+		"name": "Sigma",
+		"author": "satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Sigma.jpg",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Others",
+		"featured": true
+	},
+	{
+		"name": "spark 2",
+		"author": "satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark1.jpg",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "assets",
+		"featured": true
+	},
 
 	{	
 "name": "Spider Man PS4",
