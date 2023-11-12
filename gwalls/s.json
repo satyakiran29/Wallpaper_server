@@ -5,8 +5,7 @@
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
-		"collections": "assets"
-		"downloadable": false
+		"collections": "assets",
 		"featured": true
 	},	
 	
@@ -18,7 +17,8 @@
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%201.Webp",
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
-		"collections": "SuperHeros"
+		"collections": "SuperHeros",
+	         "downloadable": false
 	},
 
 
