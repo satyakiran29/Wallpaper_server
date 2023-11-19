@@ -1,6 +1,6 @@
-# Wallpaper_server
+# How to Upload wallpapers in Gwalls 
 
-Wallpaper App Link - Coming soon 
+Gwalls App Link - Coming soon 
 
 # Gwalls
-fetch wallpaper data from a JSON file.
+Gwalls fetch wallpaper data from a JSON file.
