@@ -221,7 +221,155 @@
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
 		"collections": "SuperHeros"
-	}
+	},
+
+
+
+
+	{
+		"name": "pixel-4-doodle-black",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-black_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-black_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-doodle-dark",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-dark_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-dark_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-doodle-gray",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-gray_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-gray_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-doodle-orange",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-orange_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-orange_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-doodle-white",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-white_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-white_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v1-black",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v1-black_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v1-black_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v1_Technastic.com",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v1_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v1_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v2-black",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v2-black_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v2-black_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v2_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v2_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v3-black",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v3-black_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v3-black_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-garden-v3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v3_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v3_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-sights-v2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-sights-v2_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-sights-v2_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-sights",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-sights_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-sights_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-switzerland",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-switzerland_Technastic.com.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-switzerland_Technastic.com.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  },
+	  {
+		"name": "pixel-4-uluru",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-uluru-_Technastic.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-uluru-_Technastic.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Pixel"
+	  }
+
 	
 	
 ]
+
+
+
+
+
+
+
+	 
