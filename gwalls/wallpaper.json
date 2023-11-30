@@ -20,18 +20,25 @@
 			"collections": "Anime ,Featured",
 			"featured": true
 	},
+
+
+
+
+
 	{
-		"name": "Spark 1",
+		"name": "Sigma",
 		"author": "Satyakiran",
-		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Sigma.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Sigma.webp",
 		"dimensions": "1080p",
 		"copyright": "Free ",
 		"collections": "Others"
 	},
 	{
-		"name": "Sigma",
+		"name": "Spark 1",
 		"author": "Satyakiran",
-		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Sigma.jpg",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Spark2.webp",
 		"dimensions": "1080p",
 		"copyright": "Free ",
 		"collections": "Others"
@@ -40,6 +47,7 @@
 		"name": "Spark 2",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark1.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Spark1.webp",
 		"dimensions": "1080p",
 		"copyright": "Free ",
 		"collections": "Others"
@@ -48,7 +56,9 @@
 	{	
      "name": "Spider Man PS4",
 		"author": "Satyakiran",
+		
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%201.JPG",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%201.webp",
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
 		"collections": "SuperHeros",
@@ -62,8 +72,7 @@
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%201.webp",
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
-		"collections": "SuperHeros",
-	    "downloadable": false
+		"collections": "SuperHeros"
 	},
 
 
