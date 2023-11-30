@@ -1,14 +1,4 @@
 [
-
-{
-                "name": "Ganesh",
-                "author": "satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Gods%20/W/Ganesh.jpg",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Gods, Amoled"
-        },
-
 	
         {
                 "name": "Aot",
@@ -16,10 +6,11 @@
                 "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/W/Aot%201.jpg",
                 "dimensions": "1080p",
                 "copyright": "Free ",
-                "collections": "Anime"
+                "collections": "Anime ,featured",
+				"featured": true
         },
 	{
-		"name": "spark 1",
+		"name": "Spark 1",
 		"author": "satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"dimensions": "1080p",
@@ -37,7 +28,7 @@
 		"featured": true
 	},
 	{
-		"name": "spark 2",
+		"name": "Spark 2",
 		"author": "satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark1.jpg",
 		"dimensions": "1080p",
@@ -47,29 +38,29 @@
 	},
 
 	{	
-"name": "Spider Man PS4",
+     "name": "Spider Man PS4",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%201.JPG",
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
 		"collections": "SuperHeros",
-	         "downloadable": false
+	    "downloadable": false
 	},
 
 {	
-"name": "Spider Man 1",
+        "name": "Spider Man 1",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%201.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%201.webp",
 		"dimensions": "1080p",
 		"copyright": "GWallpaper",
 		"collections": "SuperHeros",
-	         "downloadable": false
+	    "downloadable": false
 	},
 
 
 {	
-"name": "Spider Man 2",
+        "name": "Spider Man 2",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%202.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%202.webp",
@@ -80,7 +71,7 @@
 
 
 {	
-"name": "Spider Man 3",
+        "name": "Spider Man 3",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%203.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%203.webp",
@@ -90,7 +81,7 @@
 	},
 
 {	
-"name": "Spider Man 4",
+       "name": "Spider Man 4",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%204.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%204.webp",
@@ -100,7 +91,7 @@
 	},
 
 {	
-"name": "Spider Man 5",
+       "name": "Spider Man 5",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%205.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%205.webp",
@@ -111,7 +102,7 @@
 
 
 {	
-"name": "Spider Man 6",
+        "name": "Spider Man 6",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%206.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%206.webp",
@@ -123,7 +114,7 @@
 
 
 {	
-                "name": "Spider Man 7",
+        "name": "Spider Man 7",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%207.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%207.Webp",
