@@ -1,40 +1,48 @@
 [
-	
         {
-                "name": "Aot",
-                "author": "satyakiran",
+                "name": "AoT",
+                "author": "Satyakiran",
                 "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/W/Aot%201.jpg",
+				"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/T/Aot%201.webp",
                 "dimensions": "1080p",
                 "copyright": "Free ",
-                "collections": "Anime ,featured",
+                "collections": "Anime ,Featured",
 				"featured": true
         },
+
+		{
+			"name": "Luffy",
+			"author": "Satyakiran",
+			"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/W/OnePiece%201.jpg",
+			"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/T/OnePiece%201.webp",
+			"dimensions": "1080p",
+			"copyright": "Free ",
+			"collections": "Anime ,Featured",
+			"featured": true
+	},
 	{
 		"name": "Spark 1",
-		"author": "satyakiran",
+		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
-		"collections": "Others",
-		"featured": true
+		"collections": "Others"
 	},
 	{
 		"name": "Sigma",
-		"author": "satyakiran",
+		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Sigma.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
-		"collections": "Others",
-		"featured": true
+		"collections": "Others"
 	},
 	{
 		"name": "Spark 2",
-		"author": "satyakiran",
+		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark1.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
-		"collections": "Others",
-		"featured": true
+		"collections": "Others"
 	},
 
 	{	
