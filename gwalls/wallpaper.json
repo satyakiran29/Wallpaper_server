@@ -1,107 +1,85 @@
 [
-
-
-{
-                "name": "Spiderman No Way Home",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188636982.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188636982.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros"
-        },
-
-{
-                "name": " Spiderman man(Pavitr Prabhakar)",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188638254.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188638254.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros"
-        },
-
-{
-                "name": "Spider Girl",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188641385.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188641385.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-{
-                "name": "Spiderman Home Coming",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188647272.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188647272.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-
-
-{
-                "name": "Spiderman No Way Home",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188654301.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188654301.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-{
-                "name": "Spiderman Miles Morales (game)",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188657960.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188657960.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-
-{
-                "name": "Black Spiderman",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188669040.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188669040.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-{
-                "name": "Spiderman no way home ",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188674963.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188674963.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-
-{
-                "name": "Andrew Spiderman",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188685323.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188685323.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "SuperHeros "
-        },
-
-
-
-
+	{
+		"name": "Spiderman No Way Home",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188636982.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188636982.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros"
+	},
+	{
+		"name": " Spiderman man(Pavitr Prabhakar)",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188638254.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188638254.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros"
+	},
+	{
+		"name": "Spider Girl",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188641385.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188641385.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Spiderman Home Coming",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188647272.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188647272.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Spiderman No Way Home",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188654301.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188654301.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Spiderman Miles Morales (game)",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188657960.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188657960.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Black Spiderman",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188669040.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188669040.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Spiderman no way home ",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188674963.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188674963.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
+	{
+		"name": "Andrew Spiderman",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188685323.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188685323.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "SuperHeros "
+	},
 	{
 		"name": "AoT",
 		"author": "Satyakiran",
@@ -411,126 +389,112 @@
 		"copyright": "Free",
 		"collections": "Pixel"
 	},
-        {
-                "name": "Pixel 4a _1",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
- {
-                "name": "Pixel 4a_2",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_1.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_1.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-{
-                "name": "Pixel 4a_3",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_2.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_2.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-{
-                "name": "Pixel 4a_4",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_3.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_3.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-{
-                "name": "Pixel 4a_5",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_4.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_4.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-
-{
-                "name": "Pixel 4a_6",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_5.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_5.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-{
-                "name": "Pixel 4a_7",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_6.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_6.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-{
-                "name": "Pixel 4a_8",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_7.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_7.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-
-{
-                "name": "Pixel 4a_9",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_8.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_8.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-
-
-
-{
-                "name": "Pixel 4a_10",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_9.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_9.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-{
-                "name": "Pixel 4a_11",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_10.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_10.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        },
-{
-                "name": "Pixel 4a_12",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_11.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_11.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Pixel "
-        }
+	{
+		"name": "Pixel 4a _1",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_1.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_1.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_2.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_2.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_4",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_3.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_3.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_5",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_4.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_4.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_6",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_5.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_5.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_7",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_6.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_6.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_8",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_7.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_7.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_9",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_8.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_8.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_10",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_9.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_9.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_11",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_10.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_10.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	},
+	{
+		"name": "Pixel 4a_12",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_11.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_11.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Pixel "
+	}
 ]
-   
