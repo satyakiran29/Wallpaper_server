@@ -1,78 +1,55 @@
 [
-
-
-
-
-
-
-
-{
-                "name": "GTA 6_1",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly274.jpg",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Games"
-        },
-
-
-{
-                "name": "Gta 6_2",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly275.jpg",
-  
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Games"
-        },
-
-
-
-{
-                "name": "GTA 6_3",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly276.png",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Games"
-        },
-
-
-
-
-
-{
-                "name": "Madara_1 Naruto",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara1.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara1.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Anime"
-        },
-
-{
-                "name": "Madara_2 Naruto",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara2.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara2.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Anime"
-        },
-
-
-{
-                "name": "Madara_3 Naruto",
-                "author": "Satyakiran",
-                "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara3.jpg",
-                "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara3.webp",
-                "dimensions": "1080p",
-                "copyright": "Free ",
-                "collections": "Anime"
-        },
-
-
+	{
+		"name": "GTA 6_1",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly274.jpg",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Games"
+	},
+	{
+		"name": "Gta 6_2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly275.jpg",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Games"
+	},
+	{
+		"name": "GTA 6_3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly276.png",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Games"
+	},
+	{
+		"name": "Madara_1 Naruto",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara1.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara1.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Anime"
+	},
+	{
+		"name": "Madara_2 Naruto",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara2.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara2.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Anime"
+	},
+	{
+		"name": "Madara_3 Naruto",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara3.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara3.webp",
+		"dimensions": "1080p",
+		"copyright": "Free ",
+		"collections": "Anime"
+	},
 	{
 		"name": "Spiderman No Way Home",
 		"author": "Satyakiran",
