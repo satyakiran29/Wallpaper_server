@@ -1,4 +1,87 @@
 [
+
+	{
+		"name": "OneUi Wallpaper 1",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(1).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(1).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "OneUi Wallpaper 2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(2).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(2).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "OneUi Wallpaper 3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(3).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(3).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "OneUi Wallpaper 4",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(4).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(4).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+
+	{
+		"name": "Huawei Mate 50 Pro Wallpaper 1",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(1).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(1).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Huawei Mate 50 Pro Wallpaper 2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(2).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(2).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Huawei Mate 50 Pro Wallpaper 3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(3).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(3).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Huawei Mate 50 Pro Wallpaper 4",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(4).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(4).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Huawei Mate 50 Pro Wallpaper 5",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(5).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(5).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
 		"name": "Iphone 14 Wallpaper 1",
 		"author": "Satyakiran",
