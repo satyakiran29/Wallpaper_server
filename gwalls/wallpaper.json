@@ -1,288 +1,283 @@
 [
-
-
 	{
-        "name": "Moto Razr 1",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(1).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(1).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 2",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(2).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(2).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 3",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(3).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(3).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 4",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(4).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(4).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 5",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(5).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(5).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 6",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(6).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(6).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
+		"name": "Moto Razr 1",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(1).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(1).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
-        "name": "Moto Razr 7",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(7).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(7).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 8",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(8).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(8).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 9",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(9).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(9).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
+		"name": "Moto Razr 2",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(2).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(2).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
-        "name": "Moto Razr 10",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(10).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(10).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 11",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(11).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(11).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 12",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(12).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(12).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 13",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(13).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(13).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 14",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(14).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(14).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 15",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(15).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(15).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
+		"name": "Moto Razr 3",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(3).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(3).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
-        "name": "Moto Razr 16",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(16).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(16).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 17",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(17).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(17).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 18",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(18).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(18).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 19",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(19).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(19).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 20",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(20).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(20).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 21",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(21).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(21).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
+		"name": "Moto Razr 4",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(4).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(4).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
-        "name": "Moto Razr 22",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(22).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(22).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 23",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(23).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(23).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 24",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(24).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(24).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 25",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(25).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(25).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 26",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(26).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(26).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 27",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(27).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(27).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
+		"name": "Moto Razr 5",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(5).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(5).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
-        "name": "Moto Razr 28",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(28).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(28).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 29",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(29).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(29).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 30",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(30).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(30).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-    {
-        "name": "Moto Razr 31",
-        "author": "Satyakiran",
-        "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(31).jpg",
-        "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(31).webp",
-        "dimensions": "1080p",
-        "copyright": "Free",
-        "collections": "Stock"
-    },
-
-
-
+		"name": "Moto Razr 6",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(6).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(6).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 7",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(7).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(7).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 8",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(8).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(8).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 9",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(9).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(9).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 10",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(10).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(10).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 11",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(11).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(11).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 12",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(12).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(12).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 13",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(13).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(13).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 14",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(14).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(14).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 15",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(15).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(15).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 16",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(16).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(16).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 17",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(17).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(17).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 18",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(18).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(18).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 19",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(19).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(19).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 20",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(20).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(20).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 21",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(21).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(21).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 22",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(22).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(22).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 23",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(23).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(23).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 24",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(24).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(24).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 25",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(25).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(25).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 26",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(26).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(26).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 27",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(27).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(27).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 28",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(28).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(28).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 29",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(29).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(29).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 30",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(30).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(30).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
+	{
+		"name": "Moto Razr 31",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(31).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(31).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Stock"
+	},
 	{
 		"name": "Wave",
 		"author": "Satyakiran",
