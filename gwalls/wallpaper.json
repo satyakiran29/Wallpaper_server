@@ -1,9 +1,24 @@
 [
 
-
-
 	
-
+	{
+		"name": "Cute Anime Girl In Bike",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/cute-anime-girl-in-bike-wallpaper.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/cute-anime-girl-in-bike-wallpaper.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Death Note L Amoled",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/death-note-L-amoled-wallpaper.jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/death-note-L-amoled-wallpaper.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
 	{
 		"name": "Aot Beautiful Mikasa Ackerman",
 		"author": "Satyakiran",
