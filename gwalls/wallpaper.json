@@ -1,5 +1,24 @@
 [
 	{
+		"name": "City In No Man's Sky",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(100).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(100).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Games"
+	},
+	{
+		"name": "Ai Wallpaper 10",
+		"author": "Satyakiran",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(101).jpg",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(101).webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Ai"
+	},
+
+	{
 		"name": "GTA Car",
 		"author": "Satyakiran",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/W/1703304300981.jpg",
