@@ -3,7 +3,8 @@
         {
             "name": "Demon Slayer ",
             "author": "Satyakiran",
-            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(28).jpeg",
+            "forground": "https://server.skdev1.workers.dev/0:/GW_Depth/Fore/20.jpg",
+            "background": "https://server.skdev1.workers.dev/0:/GW_Depth/Fore/20.png",
             "preview": "https://server.skdev1.workers.dev/0:/GW_Depth/P/photo_2024-02-03_20-36-35.jpg",
             "dimensions": "1080p",
             "copyright": "Free",
