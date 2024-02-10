@@ -1,7 +1,142 @@
 [
 	{
+		"name": "Vinland Saga 1554 x 2350",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vinland%20Saga%201554%20x%202350.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Vinland%20Saga%201554%20x%202350.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Vinland Saga 2700 x 3600",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vinland%20Saga%202700%20x%203600.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Vinland%20Saga%202700%20x%203600.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Violet Evergarden 1080 x 1920",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Violet%20Evergarden%201080%20x%201920.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Violet%20Evergarden%201080%20x%201920.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Violet Evergarden 1440 x 2560",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Violet%20Evergarden%201440%20x%202560.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Violet%20Evergarden%201440%20x%202560.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Vocaloid 1274 x 2039",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vocaloid%201274%20x%202039.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Vocaloid%201274%20x%202039.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Vocaloid 2000 x 4144",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vocaloid%202000%20x%204144.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Vocaloid%202000%20x%204144.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Vocaloid 2548 x 4078",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vocaloid%202548%20x%204078.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Vocaloid%202548%20x%204078.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Wonder Egg Priority 2250 x 4000",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Wonder%20Egg%20Priority%202250%20x%204000.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Wonder%20Egg%20Priority%202250%20x%204000.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yakusoku no Neverland 1440 x 2560",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yakusoku%20no%20Neverland%201440%20x%202560.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yakusoku%20no%20Neverland%201440%20x%202560.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△ 1350 x 2400",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B3%201350%20x%202400.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B3%201350%20x%202400.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△ 2000x 2828",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B3%202000x%202828.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B3%202000x%202828.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△ 2732 x 4611",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B3%202732%20x%204611.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B3%202732%20x%204611.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△ 2880 x 5120",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B3%202880%20x%205120.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B3%202880%20x%205120.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△2304 x 4610",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B32304%20x%204610.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B32304%20x%204610.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
+		"name": "Yuru Camp△2880 x 5120",
+		"author": "GWalls",
+		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Yuru%20Camp%E2%96%B3%202880%20x%205120.png",
+		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/P/Yuru%20Camp%E2%96%B3%202880%20x%205120.webp",
+		"dimensions": "1080p",
+		"copyright": "Free",
+		"collections": "Anime"
+	},
+	{
 		"name": "Demon Slayer ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(28).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(28).jpeg",
 		"dimensions": "1080p",
@@ -10,7 +145,7 @@
 	},
 	{
 		"name": "Dr.stone ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(29).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(29).jpeg",
 		"dimensions": "1080p",
@@ -19,7 +154,7 @@
 	},
 	{
 		"name": " Parasyte",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(30).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(30).jpeg",
 		"dimensions": "1080p",
@@ -28,7 +163,7 @@
 	},
 	{
 		"name": " Demon Slayer",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(31).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(31).jpeg",
 		"dimensions": "1080p",
@@ -37,7 +172,7 @@
 	},
 	{
 		"name": "Sukana X JJK ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(32).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(32).jpeg",
 		"dimensions": "1080p",
@@ -46,7 +181,7 @@
 	},
 	{
 		"name": " Takt Op. Destiny",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(13).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(13).jpeg",
 		"dimensions": "1080p",
@@ -55,7 +190,7 @@
 	},
 	{
 		"name": "Shinpei Ajiro X Summer Time ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(14).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(14).jpeg",
 		"dimensions": "1080p",
@@ -64,7 +199,7 @@
 	},
 	{
 		"name": " Gintoki Sakata X Gintama",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(15).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(15).jpeg",
 		"dimensions": "1080p",
@@ -73,7 +208,7 @@
 	},
 	{
 		"name": "Anime Girl ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(16).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(16).jpeg",
 		"dimensions": "1080p",
@@ -82,7 +217,7 @@
 	},
 	{
 		"name": "Chise Hatori ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(17).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(17).jpeg",
 		"dimensions": "1080p",
@@ -91,7 +226,7 @@
 	},
 	{
 		"name": " Dragon Ball",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(18).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(18).jpeg",
 		"dimensions": "1080p",
@@ -100,7 +235,7 @@
 	},
 	{
 		"name": "Solo Leveling",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(19).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(19).jpeg",
 		"dimensions": "1080p",
@@ -109,7 +244,7 @@
 	},
 	{
 		"name": "Summer time ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(7).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(7).jpeg",
 		"dimensions": "1080p",
@@ -118,7 +253,7 @@
 	},
 	{
 		"name": "Ainz Ooal Gown ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(8).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(8).jpeg",
 		"dimensions": "1080p",
@@ -127,7 +262,7 @@
 	},
 	{
 		"name": "Osamu Dazai ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(9).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(9).jpeg",
 		"dimensions": "1080p",
@@ -136,7 +271,7 @@
 	},
 	{
 		"name": "Itachi Uchiha ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(10).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(10).jpeg",
 		"dimensions": "1080p",
@@ -145,7 +280,7 @@
 	},
 	{
 		"name": " Chrollo Lucilfer",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(11).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(11).jpeg",
 		"dimensions": "1080p",
@@ -154,7 +289,7 @@
 	},
 	{
 		"name": "Demon Slayer ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(12).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(12).jpeg",
 		"dimensions": "1080p",
@@ -163,7 +298,7 @@
 	},
 	{
 		"name": "Dr.Stone ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(1).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(1).jpeg",
 		"dimensions": "1080p",
@@ -172,7 +307,7 @@
 	},
 	{
 		"name": " Hatsune Miku",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(2).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(2).jpeg",
 		"dimensions": "1080p",
@@ -181,7 +316,7 @@
 	},
 	{
 		"name": "A Girl With Blue Hair ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(3).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(3).jpeg",
 		"dimensions": "1080p",
@@ -190,7 +325,7 @@
 	},
 	{
 		"name": "Yuta X JJk ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(4).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(4).jpeg",
 		"dimensions": "1080p",
@@ -199,7 +334,7 @@
 	},
 	{
 		"name": "Nanami X JJk ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(5).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(5).jpeg",
 		"dimensions": "1080p",
@@ -208,7 +343,7 @@
 	},
 	{
 		"name": " Gojo X JJk",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(6).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_3/W/1%20(6).jpeg",
 		"dimensions": "1080p",
@@ -217,7 +352,7 @@
 	},
 	{
 		"name": "Ai Mountain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(31).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(31).webp",
 		"dimensions": "1080p",
@@ -226,7 +361,7 @@
 	},
 	{
 		"name": "Ai Mountain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(32).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(32).webp",
 		"dimensions": "1080p",
@@ -235,7 +370,7 @@
 	},
 	{
 		"name": "Ai Mountain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(33).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(33).webp",
 		"dimensions": "1080p",
@@ -244,7 +379,7 @@
 	},
 	{
 		"name": "Mountain SunSet",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(34).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(34).webp",
 		"dimensions": "1080p",
@@ -253,7 +388,7 @@
 	},
 	{
 		"name": "Rain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(35).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(35).webp",
 		"dimensions": "1080p",
@@ -262,7 +397,7 @@
 	},
 	{
 		"name": "Moutain Hiker",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(37).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(37).webp",
 		"dimensions": "1080p",
@@ -271,7 +406,7 @@
 	},
 	{
 		"name": "Camp Fire",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(38).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(39).webp",
 		"dimensions": "1080p",
@@ -280,7 +415,7 @@
 	},
 	{
 		"name": "Moutain Hiker",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(40).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(40).webp",
 		"dimensions": "1080p",
@@ -289,7 +424,7 @@
 	},
 	{
 		"name": "Ai Wallpaper",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(36).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(36).webp",
 		"dimensions": "1080p",
@@ -298,7 +433,7 @@
 	},
 	{
 		"name": "Ai Wallpaper",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(30).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(30).webp",
 		"dimensions": "1080p",
@@ -307,7 +442,7 @@
 	},
 	{
 		"name": "City In No Man's Sky",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(100).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(100).webp",
 		"dimensions": "1080p",
@@ -316,7 +451,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 10",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(101).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(101).webp",
 		"dimensions": "1080p",
@@ -325,7 +460,7 @@
 	},
 	{
 		"name": "GTA Car",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/W/1703304300981.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/T/1703304300981.webp",
 		"dimensions": "1080p",
@@ -334,7 +469,7 @@
 	},
 	{
 		"name": "Ash Pokemon",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/W/1703304317179.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/T/1703304317179.webp",
 		"dimensions": "1080p",
@@ -343,7 +478,7 @@
 	},
 	{
 		"name": "Naruto ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile//Random2/R1/W/1703304319654.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/T/1703304319654.webp",
 		"dimensions": "1080p",
@@ -352,7 +487,7 @@
 	},
 	{
 		"name": "RDR 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/W/1704049593695.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random2/R1/T/1704049593695.webp",
 		"dimensions": "1080p",
@@ -361,7 +496,7 @@
 	},
 	{
 		"name": "Aot ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/Shingeki%20no%20Kyojin%201920%20x%202959.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/Shingeki%20no%20Kyojin%201920%20x%202959.webp",
 		"dimensions": "1080p",
@@ -370,7 +505,7 @@
 	},
 	{
 		"name": "Tanjiro kamado dance of the fire god",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/tanjiro-kamado-dance-of-the-fire-god-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/tanjiro-kamado-dance-of-the-fire-god-wallpaper.webp",
 		"dimensions": "1080p",
@@ -379,7 +514,7 @@
 	},
 	{
 		"name": "Tanjiro kamado glitch art ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/tanjiro-kamado-glitch-art-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/tanjiro-kamado-glitch-art-wallpaper.webp",
 		"dimensions": "1080p",
@@ -388,7 +523,7 @@
 	},
 	{
 		"name": "Death Note L",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/death-note-l-black-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/death-note-l-black-wallpaper.webp",
 		"dimensions": "1080p",
@@ -397,7 +532,7 @@
 	},
 	{
 		"name": "Demon Slayer Giyu Tomioka With Katana",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/demon-slayer-giyu-tomioka-with-katana-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/demon-slayer-giyu-tomioka-with-katana-wallpaper.webp",
 		"dimensions": "1080p",
@@ -406,7 +541,7 @@
 	},
 	{
 		"name": "Demon Slayer Rengoku Fiercy Art",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/demon-slayer-rengoku-fiercy-art-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/demon-slayer-rengoku-fiercy-art-wallpaper.webp",
 		"dimensions": "1080p",
@@ -415,7 +550,7 @@
 	},
 	{
 		"name": "Dragon ball goku purple",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/dragon-ball-goku-purple-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/dragon-ball-goku-purple-wallpaper.webp",
 		"dimensions": "1080p",
@@ -424,7 +559,7 @@
 	},
 	{
 		"name": "Dragon ball goku sunset",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/dragon-ball-goku-sunset-epic-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/dragon-ball-goku-sunset-epic-wallpaper.webp",
 		"dimensions": "1080p",
@@ -433,7 +568,7 @@
 	},
 	{
 		"name": "Fullmetal Alchemist Brotherhood ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/Fullmetal%20Alchemist%20Brotherhood%201080%20x%201918.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/Fullmetal%20Alchemist%20Brotherhood%201080%20x%201918.webp",
 		"dimensions": "1080p",
@@ -442,7 +577,7 @@
 	},
 	{
 		"name": "Hunter x hunter ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/hunter-x-hunter-gon-freecss-anime-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/hunter-x-hunter-gon-freecss-anime-wallpaper.webp",
 		"dimensions": "1080p",
@@ -451,7 +586,7 @@
 	},
 	{
 		"name": "Itachi uchiha black art",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/itachi-uchiha-black-art-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/itachi-uchiha-black-art-wallpaper.webp",
 		"dimensions": "1080p",
@@ -460,7 +595,7 @@
 	},
 	{
 		"name": "JoJo no Kimyou na Bouken ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700%20(2).webp",
 		"dimensions": "1080p",
@@ -469,7 +604,7 @@
 	},
 	{
 		"name": "JoJo no Kimyou na Bouken ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700%20(3).webp",
 		"dimensions": "1080p",
@@ -478,7 +613,7 @@
 	},
 	{
 		"name": "JoJo no Kimyou na Bouken ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/JoJo%20no%20Kimyou%20na%20Bouken%201909%20X%202700.webp",
 		"dimensions": "1080p",
@@ -487,7 +622,7 @@
 	},
 	{
 		"name": "JoJo no Kimyou na Bouken ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/JoJo%20no%20Kimyou%20na%20Bouken%201920%20X%202560.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/JoJo%20no%20Kimyou%20na%20Bouken%201920%20X%202560.webp",
 		"dimensions": "1080p",
@@ -496,7 +631,7 @@
 	},
 	{
 		"name": "Levi ackerman under the rain art ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/levi-ackerman-under-the-rain-art-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/levi-ackerman-under-the-rain-art-wallpaper.webp",
 		"dimensions": "1080p",
@@ -505,7 +640,7 @@
 	},
 	{
 		"name": "Liebe black clover",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/liebe-black-clover-1284x2778-11223.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/liebe-black-clover-1284x2778-11223.webp",
 		"dimensions": "1080p",
@@ -514,7 +649,7 @@
 	},
 	{
 		"name": "One piece  luffy",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/one-piece-d-luffy-anime-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/one-piece-d-luffy-anime-wallpaper.webp",
 		"dimensions": "1080p",
@@ -523,7 +658,7 @@
 	},
 	{
 		"name": "One piece luffy zoro nami",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/one-piece-red-luffy-zoro-nami_1220x2160_xtrafondos.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/one-piece-red-luffy-zoro-nami_1220x2160_xtrafondos.com.webp",
 		"dimensions": "1080p",
@@ -532,7 +667,7 @@
 	},
 	{
 		"name": "One Piece ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/One%20Piece%201920%20x%202688%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/One%20Piece%201920%20x%202688%20(2).webp",
 		"dimensions": "1080p",
@@ -541,7 +676,7 @@
 	},
 	{
 		"name": "One Piece ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/One%20Piece%201920%20x%202688%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/One%20Piece%201920%20x%202688%20(3).webp",
 		"dimensions": "1080p",
@@ -550,7 +685,7 @@
 	},
 	{
 		"name": "One Piece ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/One%20Piece%201920%20x%202688%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/One%20Piece%201920%20x%202688%20(4).webp",
 		"dimensions": "1080p",
@@ -559,7 +694,7 @@
 	},
 	{
 		"name": "One Piece ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/One%20Piece%201920%20x%202688.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/One%20Piece%201920%20x%202688.webp",
 		"dimensions": "1080p",
@@ -568,7 +703,7 @@
 	},
 	{
 		"name": "Cute Anime Girl In Bike",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/cute-anime-girl-in-bike-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/cute-anime-girl-in-bike-wallpaper.webp",
 		"dimensions": "1080p",
@@ -577,7 +712,7 @@
 	},
 	{
 		"name": "Death Note L Amoled",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/death-note-L-amoled-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/death-note-L-amoled-wallpaper.webp",
 		"dimensions": "1080p",
@@ -586,7 +721,7 @@
 	},
 	{
 		"name": "Aot Beautiful Mikasa Ackerman",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/aot-beautiful-mikasa-ackerman-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/aot-beautiful-mikasa-ackerman-wallpaper.webp",
 		"dimensions": "1080p",
@@ -595,7 +730,7 @@
 	},
 	{
 		"name": "Aot Eren Yeager Epic",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/aot-eren-yeager-epic-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/aot-eren-yeager-epic-wallpaper.webp",
 		"dimensions": "1080p",
@@ -604,7 +739,7 @@
 	},
 	{
 		"name": "Boku no Hero Academia",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/Boku%20no%20Hero%20Academia%201080%20x%201918.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/Boku%20no%20Hero%20Academia%201080%20x%201918.webp",
 		"dimensions": "1080p",
@@ -613,7 +748,7 @@
 	},
 	{
 		"name": "Cool demon slayer",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/cool-demon-slayer-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/cool-demon-slayer-wallpaper.webp",
 		"dimensions": "1080p",
@@ -622,7 +757,7 @@
 	},
 	{
 		"name": "cool Eren Yeager ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/W/cool-eren-yeager-wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_2/T/cool-eren-yeager-wallpaper.webp",
 		"dimensions": "1080p",
@@ -631,7 +766,7 @@
 	},
 	{
 		"name": "Spy Family Anya",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/971523.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/971523.webp",
 		"dimensions": "1080p",
@@ -640,7 +775,7 @@
 	},
 	{
 		"name": "Demon Slayer Zenitsu",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/973870.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/973870.webp",
 		"dimensions": "1080p",
@@ -649,7 +784,7 @@
 	},
 	{
 		"name": "Solo Leveling",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/@Anime_WallpapersHD%20882263.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/@Anime_WallpapersHD%20882263.webp",
 		"dimensions": "1080p",
@@ -658,7 +793,7 @@
 	},
 	{
 		"name": "bulidings tokyo",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Anime%20Original%201200%20x%201800.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Anime%20Original%201200%20x%201800.webp",
 		"dimensions": "1080p",
@@ -667,7 +802,7 @@
 	},
 	{
 		"name": "Chong Fei Giap A Digital Sense Of Nostalgia",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Anime%20Original%201800%20x%202550.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Anime%20Original%201800%20x%202550.webp",
 		"dimensions": "1080p",
@@ -676,7 +811,7 @@
 	},
 	{
 		"name": "Bleach",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Bleach%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Bleach%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -685,7 +820,7 @@
 	},
 	{
 		"name": "Cowboy Bebop ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Cowboy%20Bebop%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Cowboy%20Bebop%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -694,7 +829,7 @@
 	},
 	{
 		"name": "Death Note",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Death%20Note%201584%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Death%20Note%201584%20x%202400.webp",
 		"dimensions": "1080p",
@@ -703,7 +838,7 @@
 	},
 	{
 		"name": "Death Note ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Death%20Note%201714%20x%202400%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Death%20Note%201714%20x%202400%20(2).webp",
 		"dimensions": "1080p",
@@ -712,7 +847,7 @@
 	},
 	{
 		"name": "Death Note ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Death%20Note%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Death%20Note%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -721,7 +856,7 @@
 	},
 	{
 		"name": "Fullmetal Alchemist ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Fullmetal%20Alchemist%201358%20x%201920.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Fullmetal%20Alchemist%201358%20x%201920.webp",
 		"dimensions": "1080p",
@@ -730,7 +865,7 @@
 	},
 	{
 		"name": "Hunter x Hunter ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Hunter%20x%20Hunter%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Hunter%20x%20Hunter%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -739,7 +874,7 @@
 	},
 	{
 		"name": "Kurenai no Buta ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Kurenai%20no%20Buta%201365%20x%202048%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Kurenai%20no%20Buta%201365%20x%202048%20(2).webp",
 		"dimensions": "1080p",
@@ -748,7 +883,7 @@
 	},
 	{
 		"name": "Kurenai no Buta ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Kurenai%20no%20Buta%201365%20x%202048.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Kurenai%20no%20Buta%201365%20x%202048.webp",
 		"dimensions": "1080p",
@@ -757,7 +892,7 @@
 	},
 	{
 		"name": "Mob Psycho 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Mob%20Psycho%20100%202234%20x%203765.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Mob%20Psycho%20100%202234%20x%203765.webp",
 		"dimensions": "1080p",
@@ -766,7 +901,7 @@
 	},
 	{
 		"name": "Naruto ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Naruto%201714%20x%202400%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Naruto%201714%20x%202400%20(2).webp",
 		"dimensions": "1080p",
@@ -775,7 +910,7 @@
 	},
 	{
 		"name": "Naruto ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Naruto%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Naruto%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -784,7 +919,7 @@
 	},
 	{
 		"name": "Neon Genesis Evangelion ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Neon%20Genesis%20Evangelion%201714%20x%202400%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Neon%20Genesis%20Evangelion%201714%20x%202400%20(2).webp",
 		"dimensions": "1080p",
@@ -793,7 +928,7 @@
 	},
 	{
 		"name": "Original Art ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Original%20Art%201434%20x%202000.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Original%20Art%201434%20x%202000.webp",
 		"dimensions": "1080p",
@@ -802,7 +937,7 @@
 	},
 	{
 		"name": "Trigun",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Trigun%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Trigun%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -811,7 +946,7 @@
 	},
 	{
 		"name": "Fullmetal Alchemist",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Fullmetal%20Alchemist%201358%20x%201920.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Fullmetal%20Alchemist%201358%20x%201920.webp",
 		"dimensions": "1080p",
@@ -820,7 +955,7 @@
 	},
 	{
 		"name": "Hunter x Hunter",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Hunter%20x%20Hunter%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Hunter%20x%20Hunter%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -829,7 +964,7 @@
 	},
 	{
 		"name": "Kurenai no Buta 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Kurenai%20no%20Buta%201365%20x%202048%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Kurenai%20no%20Buta%201365%20x%202048%20(2).webp",
 		"dimensions": "1080p",
@@ -838,7 +973,7 @@
 	},
 	{
 		"name": "Kurenai no Buta 1365 x 2048",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Kurenai%20no%20Buta%201365%20x%202048.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Kurenai%20no%20Buta%201365%20x%202048.webp",
 		"dimensions": "1080p",
@@ -847,7 +982,7 @@
 	},
 	{
 		"name": "Mob Psycho 100 2234 x 3765",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Mob%20Psycho%20100%202234%20x%203765.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Mob%20Psycho%20100%202234%20x%203765.webp",
 		"dimensions": "1080p",
@@ -856,7 +991,7 @@
 	},
 	{
 		"name": "Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Naruto%201714%20x%202400%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Naruto%201714%20x%202400%20(2).webp",
 		"dimensions": "1080p",
@@ -865,7 +1000,7 @@
 	},
 	{
 		"name": "Naruto 1714 x 2400",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Naruto%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Naruto%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -874,7 +1009,7 @@
 	},
 	{
 		"name": "Neon Genesis Evangelion ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Neon%20Genesis%20Evangelion%201714%20x%202400%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Neon%20Genesis%20Evangelion%201714%20x%202400%20(2).webp",
 		"dimensions": "1080p",
@@ -883,7 +1018,7 @@
 	},
 	{
 		"name": "Neon Genesis Evangelion ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Neon%20Genesis%20Evangelion%201714%20x%202400%20(3).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Neon%20Genesis%20Evangelion%201714%20x%202400%20(3).webp",
 		"dimensions": "1080p",
@@ -892,7 +1027,7 @@
 	},
 	{
 		"name": "Neon Genesis Evangelion",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Neon%20Genesis%20Evangelion%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Neon%20Genesis%20Evangelion%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -901,7 +1036,7 @@
 	},
 	{
 		"name": "Trigun ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/W/Trigun%201714%20x%202400.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_1/T/Trigun%201714%20x%202400.webp",
 		"dimensions": "1080p",
@@ -910,7 +1045,7 @@
 	},
 	{
 		"name": "OneUi Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(1).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -919,7 +1054,7 @@
 	},
 	{
 		"name": "OneUi Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -928,7 +1063,7 @@
 	},
 	{
 		"name": "OneUi Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -937,7 +1072,7 @@
 	},
 	{
 		"name": "OneUi Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/W/1%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/OneUi/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -946,7 +1081,7 @@
 	},
 	{
 		"name": "Huawei Mate 50 Pro Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(1).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -955,7 +1090,7 @@
 	},
 	{
 		"name": "Huawei Mate 50 Pro Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -964,7 +1099,7 @@
 	},
 	{
 		"name": "Huawei Mate 50 Pro Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -973,7 +1108,7 @@
 	},
 	{
 		"name": "Huawei Mate 50 Pro Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -982,7 +1117,7 @@
 	},
 	{
 		"name": "Huawei Mate 50 Pro Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/W/1%20(5).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Huawei_mate_50/T/1%20(5).webp",
 		"dimensions": "1080p",
@@ -991,7 +1126,7 @@
 	},
 	{
 		"name": "Iphone 14 Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(1).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -1000,7 +1135,7 @@
 	},
 	{
 		"name": "Iphone 14 Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(2).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -1009,7 +1144,7 @@
 	},
 	{
 		"name": "Iphone 14 Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(3).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -1018,7 +1153,7 @@
 	},
 	{
 		"name": "Iphone 14 Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(4).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -1027,7 +1162,7 @@
 	},
 	{
 		"name": "Iphone 14 Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(5).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(5).webp",
 		"dimensions": "1080p",
@@ -1036,7 +1171,7 @@
 	},
 	{
 		"name": "Iphone 14 pro Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(6).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(6).webp",
 		"dimensions": "1080p",
@@ -1045,7 +1180,7 @@
 	},
 	{
 		"name": "Iphone 14 pro Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(7).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(7).webp",
 		"dimensions": "1080p",
@@ -1054,7 +1189,7 @@
 	},
 	{
 		"name": "Iphone 14 pro Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(8).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(8).webp",
 		"dimensions": "1080p",
@@ -1063,7 +1198,7 @@
 	},
 	{
 		"name": "Iphone 14 pro Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(9).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(9).webp",
 		"dimensions": "1080p",
@@ -1072,7 +1207,7 @@
 	},
 	{
 		"name": "Iphone 14 pro Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/W/1%20(10).png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Iphone14_pro/T/1%20(10).webp",
 		"dimensions": "1080p",
@@ -1081,7 +1216,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(1).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -1090,7 +1225,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -1099,7 +1234,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -1108,7 +1243,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -1117,7 +1252,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(5).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(5).webp",
 		"dimensions": "1080p",
@@ -1126,7 +1261,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(6).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(6).webp",
 		"dimensions": "1080p",
@@ -1135,7 +1270,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(7).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(7).webp",
 		"dimensions": "1080p",
@@ -1144,7 +1279,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 8",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(8).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(8).webp",
 		"dimensions": "1080p",
@@ -1153,7 +1288,7 @@
 	},
 	{
 		"name": "ColorOS 14 Wallpaper 9",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/W/1%20(9).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2014/T/1%20(9).webp",
 		"dimensions": "1080p",
@@ -1162,7 +1297,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(1).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(1).jpeg",
 		"dimensions": "1080p",
@@ -1171,7 +1306,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(2).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(2).jpeg",
 		"dimensions": "1080p",
@@ -1180,7 +1315,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(3).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(3).jpeg",
 		"dimensions": "1080p",
@@ -1189,7 +1324,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(4).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(4).jpeg",
 		"dimensions": "1080p",
@@ -1198,7 +1333,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(5).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(5).jpeg",
 		"dimensions": "1080p",
@@ -1207,7 +1342,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(6).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(6).jpeg",
 		"dimensions": "1080p",
@@ -1216,7 +1351,7 @@
 	},
 	{
 		"name": "ColorOS 13 Wallpaper 7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(7).jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/ColorOS%2013%20Wallpaper/1%20(7).jpeg",
 		"dimensions": "1080p",
@@ -1225,7 +1360,7 @@
 	},
 	{
 		"name": "Moto Razr 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(1).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -1234,7 +1369,7 @@
 	},
 	{
 		"name": "Moto Razr 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -1243,7 +1378,7 @@
 	},
 	{
 		"name": "Moto Razr 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -1252,7 +1387,7 @@
 	},
 	{
 		"name": "Moto Razr 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -1261,7 +1396,7 @@
 	},
 	{
 		"name": "Moto Razr 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(5).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(5).webp",
 		"dimensions": "1080p",
@@ -1270,7 +1405,7 @@
 	},
 	{
 		"name": "Moto Razr 6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(6).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(6).webp",
 		"dimensions": "1080p",
@@ -1279,7 +1414,7 @@
 	},
 	{
 		"name": "Moto Razr 7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(7).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(7).webp",
 		"dimensions": "1080p",
@@ -1288,7 +1423,7 @@
 	},
 	{
 		"name": "Moto Razr 8",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(8).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(8).webp",
 		"dimensions": "1080p",
@@ -1297,7 +1432,7 @@
 	},
 	{
 		"name": "Moto Razr 9",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(9).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(9).webp",
 		"dimensions": "1080p",
@@ -1306,7 +1441,7 @@
 	},
 	{
 		"name": "Moto Razr 10",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(10).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(10).webp",
 		"dimensions": "1080p",
@@ -1315,7 +1450,7 @@
 	},
 	{
 		"name": "Moto Razr 11",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(11).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(11).webp",
 		"dimensions": "1080p",
@@ -1324,7 +1459,7 @@
 	},
 	{
 		"name": "Moto Razr 12",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(12).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(12).webp",
 		"dimensions": "1080p",
@@ -1333,7 +1468,7 @@
 	},
 	{
 		"name": "Moto Razr 13",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(13).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(13).webp",
 		"dimensions": "1080p",
@@ -1342,7 +1477,7 @@
 	},
 	{
 		"name": "Moto Razr 14",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(14).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(14).webp",
 		"dimensions": "1080p",
@@ -1351,7 +1486,7 @@
 	},
 	{
 		"name": "Moto Razr 15",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(15).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(15).webp",
 		"dimensions": "1080p",
@@ -1360,7 +1495,7 @@
 	},
 	{
 		"name": "Moto Razr 16",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(16).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(16).webp",
 		"dimensions": "1080p",
@@ -1369,7 +1504,7 @@
 	},
 	{
 		"name": "Moto Razr 17",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(17).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(17).webp",
 		"dimensions": "1080p",
@@ -1378,7 +1513,7 @@
 	},
 	{
 		"name": "Moto Razr 18",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(18).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(18).webp",
 		"dimensions": "1080p",
@@ -1387,7 +1522,7 @@
 	},
 	{
 		"name": "Moto Razr 19",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(19).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(19).webp",
 		"dimensions": "1080p",
@@ -1396,7 +1531,7 @@
 	},
 	{
 		"name": "Moto Razr 20",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(20).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(20).webp",
 		"dimensions": "1080p",
@@ -1405,7 +1540,7 @@
 	},
 	{
 		"name": "Moto Razr 21",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(21).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(21).webp",
 		"dimensions": "1080p",
@@ -1414,7 +1549,7 @@
 	},
 	{
 		"name": "Moto Razr 22",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(22).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(22).webp",
 		"dimensions": "1080p",
@@ -1423,7 +1558,7 @@
 	},
 	{
 		"name": "Moto Razr 23",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(23).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(23).webp",
 		"dimensions": "1080p",
@@ -1432,7 +1567,7 @@
 	},
 	{
 		"name": "Moto Razr 24",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(24).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(24).webp",
 		"dimensions": "1080p",
@@ -1441,7 +1576,7 @@
 	},
 	{
 		"name": "Moto Razr 25",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(25).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(25).webp",
 		"dimensions": "1080p",
@@ -1450,7 +1585,7 @@
 	},
 	{
 		"name": "Moto Razr 26",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(26).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(26).webp",
 		"dimensions": "1080p",
@@ -1459,7 +1594,7 @@
 	},
 	{
 		"name": "Moto Razr 27",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(27).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(27).webp",
 		"dimensions": "1080p",
@@ -1468,7 +1603,7 @@
 	},
 	{
 		"name": "Moto Razr 28",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(28).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(28).webp",
 		"dimensions": "1080p",
@@ -1477,7 +1612,7 @@
 	},
 	{
 		"name": "Moto Razr 29",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(29).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(29).webp",
 		"dimensions": "1080p",
@@ -1486,7 +1621,7 @@
 	},
 	{
 		"name": "Moto Razr 30",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(30).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(30).webp",
 		"dimensions": "1080p",
@@ -1495,7 +1630,7 @@
 	},
 	{
 		"name": "Moto Razr 31",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/W/1%20(31).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Others/Moto%20Razr%20Wallpapers/T/1%20(31).webp",
 		"dimensions": "1080p",
@@ -1504,7 +1639,7 @@
 	},
 	{
 		"name": "Wave",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(21).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(21).webp",
 		"dimensions": "1080p",
@@ -1513,7 +1648,7 @@
 	},
 	{
 		"name": "Snow Montain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(22).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(22).webp",
 		"dimensions": "1080p",
@@ -1522,7 +1657,7 @@
 	},
 	{
 		"name": "Ios ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(23).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(23).webp",
 		"dimensions": "1080p",
@@ -1531,7 +1666,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(24).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(24).webp",
 		"dimensions": "1080p",
@@ -1540,7 +1675,7 @@
 	},
 	{
 		"name": "Black Church Of Budir",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(25).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(25).webp",
 		"dimensions": "1080p",
@@ -1549,7 +1684,7 @@
 	},
 	{
 		"name": "Beach",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(26).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(26).webp",
 		"dimensions": "1080p",
@@ -1558,7 +1693,7 @@
 	},
 	{
 		"name": "Torres del Paine National Park",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(27).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(27).webp",
 		"dimensions": "1080p",
@@ -1567,7 +1702,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(28).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(28).webp",
 		"dimensions": "1080p",
@@ -1576,7 +1711,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 8",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(29).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(29).webp",
 		"dimensions": "1080p",
@@ -1585,7 +1720,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 9",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(30).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(30).webp",
 		"dimensions": "1080p",
@@ -1594,7 +1729,7 @@
 	},
 	{
 		"name": "Super man",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(7).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(7).webp",
 		"dimensions": "1080p",
@@ -1603,7 +1738,7 @@
 	},
 	{
 		"name": "Harley Quinn Suicide Squad",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(8).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(8).webp",
 		"dimensions": "1080p",
@@ -1612,7 +1747,7 @@
 	},
 	{
 		"name": "Backpack",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(9).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(9).webp",
 		"dimensions": "1080p",
@@ -1621,7 +1756,7 @@
 	},
 	{
 		"name": "Ios 16 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(10).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(10).webp",
 		"dimensions": "1080p",
@@ -1630,7 +1765,7 @@
 	},
 	{
 		"name": "Shoe ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(17).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(17).webp",
 		"dimensions": "1080p",
@@ -1639,7 +1774,7 @@
 	},
 	{
 		"name": "Htc ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(11).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(11).webp",
 		"dimensions": "1080p",
@@ -1648,7 +1783,7 @@
 	},
 	{
 		"name": "Htc ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(12).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(12).webp",
 		"dimensions": "1080p",
@@ -1657,7 +1792,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(13).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(13).webp",
 		"dimensions": "1080p",
@@ -1666,7 +1801,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(14).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(14).webp",
 		"dimensions": "1080p",
@@ -1675,7 +1810,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(15).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(15).webp",
 		"dimensions": "1080p",
@@ -1684,7 +1819,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(18).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(18).webp",
 		"dimensions": "1080p",
@@ -1693,7 +1828,7 @@
 	},
 	{
 		"name": "Montain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(16).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(16).webp",
 		"dimensions": "1080p",
@@ -1702,7 +1837,7 @@
 	},
 	{
 		"name": "Ai Wallpaper 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(19).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(19).webp",
 		"dimensions": "1080p",
@@ -1711,7 +1846,7 @@
 	},
 	{
 		"name": "Black Montain",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(20).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(20).webp",
 		"dimensions": "1080p",
@@ -1720,7 +1855,7 @@
 	},
 	{
 		"name": "John Wick 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(3).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(3).webp",
 		"dimensions": "1080p",
@@ -1729,7 +1864,7 @@
 	},
 	{
 		"name": "Joker",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(4).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(4).webp",
 		"dimensions": "1080p",
@@ -1738,7 +1873,7 @@
 	},
 	{
 		"name": "God Of war",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(5).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(5).webp",
 		"dimensions": "1080p",
@@ -1747,7 +1882,7 @@
 	},
 	{
 		"name": "Sun Set",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(6).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(6).webp",
 		"dimensions": "1080p",
@@ -1756,7 +1891,7 @@
 	},
 	{
 		"name": "Sunset ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(2).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(2).webp",
 		"dimensions": "1080p",
@@ -1765,7 +1900,7 @@
 	},
 	{
 		"name": "Abstract Wallpaper 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/W/1%20(1).jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/1/T/1%20(1).webp",
 		"dimensions": "1080p",
@@ -1774,7 +1909,7 @@
 	},
 	{
 		"name": "Ganesh 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Gods%20/W/Wallpaperly204.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Gods%20/T/Wallpaperly204.webp",
 		"dimensions": "1080p",
@@ -1783,7 +1918,7 @@
 	},
 	{
 		"name": "Ganesh 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Gods%20/W/Wallpaperly205.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Gods%20/T/Wallpaperly205.webp",
 		"dimensions": "1080p",
@@ -1792,7 +1927,7 @@
 	},
 	{
 		"name": "Pixel 5a Default Wallpaper",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5a/W/pixel-5a-default-wallpaper.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5a/T/pixel-5a-default-wallpaper.webp",
 		"dimensions": "1080p",
@@ -1801,7 +1936,7 @@
 	},
 	{
 		"name": "Pixel 5a Promotional Wallpaper",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5a/W/pixel-5a-promotional-wallpaper.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5a/T/pixel-5a-promotional-wallpaper.webp",
 		"dimensions": "1080p",
@@ -1810,7 +1945,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 1 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-1.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-1.webp",
 		"dimensions": "1080p",
@@ -1819,7 +1954,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 2 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-2.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-2.webp",
 		"dimensions": "1080p",
@@ -1828,7 +1963,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 3 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-3.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-3.webp",
 		"dimensions": "1080p",
@@ -1837,7 +1972,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 4 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-4.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-4.webp",
 		"dimensions": "1080p",
@@ -1846,7 +1981,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 5 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-5.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-5.webp",
 		"dimensions": "1080p",
@@ -1855,7 +1990,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 6 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-6.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-6.webp",
 		"dimensions": "1080p",
@@ -1864,7 +1999,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 7 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-7.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-7.webp",
 		"dimensions": "1080p",
@@ -1873,7 +2008,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 8 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-8.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-8.webp",
 		"dimensions": "1080p",
@@ -1882,7 +2017,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 9 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-9.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-9.webp",
 		"dimensions": "1080p",
@@ -1891,7 +2026,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 10 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-10.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-10.webp",
 		"dimensions": "1080p",
@@ -1900,7 +2035,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 11 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-11.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-11.webp",
 		"dimensions": "1080p",
@@ -1909,7 +2044,7 @@
 	},
 	{
 		"name": "Pixel 7 Wallpaper 12 ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/W/Google-Pixel-7-Wallpapers-12.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-7/T/Google-Pixel-7-Wallpapers-12.webp",
 		"dimensions": "1080p",
@@ -1918,7 +2053,7 @@
 	},
 	{
 		"name": "Hinata",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/331_awm276858234635787.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/331_awm276858234635787.webp",
 		"dimensions": "1080p",
@@ -1927,7 +2062,7 @@
 	},
 	{
 		"name": "Uchiha Sasuke",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/331_awm276858234635787.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/331_awm276858234635787.webp",
 		"dimensions": "1080p",
@@ -1936,7 +2071,7 @@
 	},
 	{
 		"name": "JJk",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/989615.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/989615.webp",
 		"dimensions": "1080p",
@@ -1945,7 +2080,7 @@
 	},
 	{
 		"name": "Might Guy Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/991089.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/991089.webp",
 		"dimensions": "1080p",
@@ -1954,7 +2089,7 @@
 	},
 	{
 		"name": "Suzume",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/991572.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/991572.webp",
 		"dimensions": "1080p",
@@ -1963,7 +2098,7 @@
 	},
 	{
 		"name": "Oshi no Ko",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/@wallpaperly4411.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/@wallpaperly4411.webp",
 		"dimensions": "1080p",
@@ -1972,7 +2107,7 @@
 	},
 	{
 		"name": "Demon Slayer",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/anime13@wallpaperly.jpeg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/anime13@wallpaperly.webp",
 		"dimensions": "1080p",
@@ -1981,7 +2116,7 @@
 	},
 	{
 		"name": "Obito Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/anime3.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/anime3.webp",
 		"dimensions": "1080p",
@@ -1990,7 +2125,7 @@
 	},
 	{
 		"name": "Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/image_1639200137.162.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/image_1639200137.162.webp",
 		"dimensions": "1080p",
@@ -1999,7 +2134,7 @@
 	},
 	{
 		"name": "Obito Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Obito@wallpaperly.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Obito@wallpaperly.webp",
 		"dimensions": "1080p",
@@ -2008,7 +2143,7 @@
 	},
 	{
 		"name": "Obito Naruto ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Obito@wallpaperly2.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Obito@wallpaperly2.webp",
 		"dimensions": "1080p",
@@ -2017,7 +2152,7 @@
 	},
 	{
 		"name": "Obito Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Obito@wallpaperly3.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Obito@wallpaperly3.webp",
 		"dimensions": "1080p",
@@ -2026,7 +2161,7 @@
 	},
 	{
 		"name": "Obito Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Obito@wallpaperly5.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Obito@wallpaperly5.webp",
 		"dimensions": "1080p",
@@ -2035,7 +2170,7 @@
 	},
 	{
 		"name": "Sukana JJk",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Sukuna@wallpaperly.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Sukuna@wallpaperly.webp",
 		"dimensions": "1080p",
@@ -2044,7 +2179,7 @@
 	},
 	{
 		"name": "kurama",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly119.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly119.webp",
 		"dimensions": "1080p",
@@ -2053,7 +2188,7 @@
 	},
 	{
 		"name": "Oshi no Ko",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly13.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly13.webp",
 		"dimensions": "1080p",
@@ -2062,7 +2197,7 @@
 	},
 	{
 		"name": "Zoro 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly130.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly130.webp",
 		"dimensions": "1080p",
@@ -2071,7 +2206,7 @@
 	},
 	{
 		"name": "Zoro 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly131.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly131.webp",
 		"dimensions": "1080p",
@@ -2080,7 +2215,7 @@
 	},
 	{
 		"name": "Zoro 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly132.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly132.webp",
 		"dimensions": "1080p",
@@ -2089,7 +2224,7 @@
 	},
 	{
 		"name": "Your Name",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly176.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly176.webp",
 		"dimensions": "1080p",
@@ -2098,7 +2233,7 @@
 	},
 	{
 		"name": "Naruto 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly187.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly187.webp",
 		"dimensions": "1080p",
@@ -2107,7 +2242,7 @@
 	},
 	{
 		"name": "Makima Chainsaw Man",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly225.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly225.webp",
 		"dimensions": "1080p",
@@ -2116,7 +2251,7 @@
 	},
 	{
 		"name": "One Punch Man",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly240.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly240.webp",
 		"dimensions": "1080p",
@@ -2125,7 +2260,7 @@
 	},
 	{
 		"name": "AoT 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly272.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly272.webp",
 		"dimensions": "1080p",
@@ -2134,7 +2269,7 @@
 	},
 	{
 		"name": "Naruto 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly29.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly29.webp",
 		"dimensions": "1080p",
@@ -2143,7 +2278,7 @@
 	},
 	{
 		"name": "Dragon Ball",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly32.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly32.webp",
 		"dimensions": "1080p",
@@ -2152,7 +2287,7 @@
 	},
 	{
 		"name": "Anime Goat",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly42.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly42.webp",
 		"dimensions": "1080p",
@@ -2161,7 +2296,7 @@
 	},
 	{
 		"name": "Suzume 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly43.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly43.webp",
 		"dimensions": "1080p",
@@ -2170,7 +2305,7 @@
 	},
 	{
 		"name": " Magic And Muscles",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly73.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly73.webp",
 		"dimensions": "1080p",
@@ -2179,7 +2314,7 @@
 	},
 	{
 		"name": "Kakashi Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly75.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly75.webp",
 		"dimensions": "1080p",
@@ -2188,7 +2323,7 @@
 	},
 	{
 		"name": "Demon Slayer Love Hashira",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly76.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly76.webp",
 		"dimensions": "1080p",
@@ -2197,7 +2332,7 @@
 	},
 	{
 		"name": "Demon Slayer Love Hashira 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Wallpaperly77.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Wallpaperly77.webp",
 		"dimensions": "1080p",
@@ -2206,7 +2341,7 @@
 	},
 	{
 		"name": "GTA 6_1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly274.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
@@ -2214,7 +2349,7 @@
 	},
 	{
 		"name": "Gta 6_2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly275.jpg",
 		"dimensions": "1080p",
 		"copyright": "Free ",
@@ -2222,7 +2357,7 @@
 	},
 	{
 		"name": "GTA 6_3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Games/Wallpaperly276.png",
 		"dimensions": "1080p",
 		"copyright": "Free ",
@@ -2230,7 +2365,7 @@
 	},
 	{
 		"name": "Madara_1 Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara1.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara1.webp",
 		"dimensions": "1080p",
@@ -2239,7 +2374,7 @@
 	},
 	{
 		"name": "Madara_2 Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara2.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara2.webp",
 		"dimensions": "1080p",
@@ -2248,7 +2383,7 @@
 	},
 	{
 		"name": "Madara_3 Naruto",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/W/Madara3.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Anime/T/Madara3.webp",
 		"dimensions": "1080p",
@@ -2257,7 +2392,7 @@
 	},
 	{
 		"name": "Spiderman No Way Home",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188636982.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188636982.webp",
 		"dimensions": "1080p",
@@ -2266,7 +2401,7 @@
 	},
 	{
 		"name": " Spiderman man(Pavitr Prabhakar)",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188638254.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188638254.webp",
 		"dimensions": "1080p",
@@ -2275,7 +2410,7 @@
 	},
 	{
 		"name": "Spider Girl",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188641385.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188641385.webp",
 		"dimensions": "1080p",
@@ -2284,7 +2419,7 @@
 	},
 	{
 		"name": "Spiderman Home Coming",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188647272.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188647272.webp",
 		"dimensions": "1080p",
@@ -2293,7 +2428,7 @@
 	},
 	{
 		"name": "Spiderman No Way Home",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188654301.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188654301.webp",
 		"dimensions": "1080p",
@@ -2302,7 +2437,7 @@
 	},
 	{
 		"name": "Spiderman Miles Morales (game)",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188657960.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188657960.webp",
 		"dimensions": "1080p",
@@ -2311,7 +2446,7 @@
 	},
 	{
 		"name": "Black Spiderman",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188669040.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188669040.webp",
 		"dimensions": "1080p",
@@ -2320,7 +2455,7 @@
 	},
 	{
 		"name": "Spiderman no way home ",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188674963.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188674963.webp",
 		"dimensions": "1080p",
@@ -2329,7 +2464,7 @@
 	},
 	{
 		"name": "Andrew Spiderman",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/1700188685323.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/1700188685323.webp",
 		"dimensions": "1080p",
@@ -2338,7 +2473,7 @@
 	},
 	{
 		"name": "AoT",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/W/Aot%201.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/T/Aot%201.webp",
 		"dimensions": "1080p",
@@ -2348,7 +2483,7 @@
 	},
 	{
 		"name": "Luffy",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/W/OnePiece%201.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Anime%20/T/OnePiece%201.webp",
 		"dimensions": "1080p",
@@ -2358,7 +2493,7 @@
 	},
 	{
 		"name": "Pixel-4-compass-white",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-compass-white_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-compass-white_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2367,7 +2502,7 @@
 	},
 	{
 		"name": " pixel-4-doodle-android",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-android_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-android_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2376,7 +2511,7 @@
 	},
 	{
 		"name": " pixel-4-doodle-black-green",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-black-green_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-black-green_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2385,7 +2520,7 @@
 	},
 	{
 		"name": "Pixel 4 official render",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel%204%20official%20render_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel%204%20official%20render_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2394,7 +2529,7 @@
 	},
 	{
 		"name": "Pixel-4 Arabia",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-arabia_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-arabia_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2403,7 +2538,7 @@
 	},
 	{
 		"name": "Pixel 4 Compass-Black",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-compass-black_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-compass-black_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2412,7 +2547,7 @@
 	},
 	{
 		"name": "Sigma",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Sigma.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Sigma.webp",
 		"dimensions": "1080p",
@@ -2421,7 +2556,7 @@
 	},
 	{
 		"name": "Spark 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark2.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Spark2.webp",
 		"dimensions": "1080p",
@@ -2430,7 +2565,7 @@
 	},
 	{
 		"name": "Spark 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/W/Spark1.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Others%20/T/Spark1.webp",
 		"dimensions": "1080p",
@@ -2439,7 +2574,7 @@
 	},
 	{
 		"name": "Spider Man PS4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%201.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%201.webp",
 		"dimensions": "1080p",
@@ -2449,7 +2584,7 @@
 	},
 	{
 		"name": "Spider Man 1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%201.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%201.webp",
 		"dimensions": "1080p",
@@ -2458,7 +2593,7 @@
 	},
 	{
 		"name": "Spider Man 2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%202.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%202.webp",
 		"dimensions": "1080p",
@@ -2467,7 +2602,7 @@
 	},
 	{
 		"name": "Spider Man 3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%203.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%203.webp",
 		"dimensions": "1080p",
@@ -2476,7 +2611,7 @@
 	},
 	{
 		"name": "Spider Man 4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%204.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%204.webp",
 		"dimensions": "1080p",
@@ -2485,7 +2620,7 @@
 	},
 	{
 		"name": "Spider Man 5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%205.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%205.webp",
 		"dimensions": "1080p",
@@ -2494,7 +2629,7 @@
 	},
 	{
 		"name": "Spider Man 6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%206.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%206.webp",
 		"dimensions": "1080p",
@@ -2503,7 +2638,7 @@
 	},
 	{
 		"name": "Spider Man 7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/W/Spider-Man%20Miles%207.JPG",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%20/Super%20hero%20/T/Spider-Man%20Miles%207.Webp",
 		"dimensions": "1080p",
@@ -2512,7 +2647,7 @@
 	},
 	{
 		"name": "pixel-4-doodle-black",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-black_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-black_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2521,7 +2656,7 @@
 	},
 	{
 		"name": "pixel-4-doodle-dark",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-dark_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-dark_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2530,7 +2665,7 @@
 	},
 	{
 		"name": "pixel-4-doodle-gray",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-gray_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-gray_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2539,7 +2674,7 @@
 	},
 	{
 		"name": "pixel-4-doodle-orange",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-orange_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-orange_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2548,7 +2683,7 @@
 	},
 	{
 		"name": "pixel-4-doodle-white",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-doodle-white_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-doodle-white_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2557,7 +2692,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v1-black",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v1-black_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v1-black_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2566,7 +2701,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v1_Technastic.com",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v1_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v1_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2575,7 +2710,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v2-black",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v2-black_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v2-black_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2584,7 +2719,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v2_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v2_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2593,7 +2728,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v3-black",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v3-black_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v3-black_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2602,7 +2737,7 @@
 	},
 	{
 		"name": "pixel-4-garden-v3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-garden-v3_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-garden-v3_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2611,7 +2746,7 @@
 	},
 	{
 		"name": "pixel-4-sights-v2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-sights-v2_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-sights-v2_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2620,7 +2755,7 @@
 	},
 	{
 		"name": "pixel-4-sights",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-sights_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-sights_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2629,7 +2764,7 @@
 	},
 	{
 		"name": "pixel-4-switzerland",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-switzerland_Technastic.com.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-switzerland_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2638,7 +2773,7 @@
 	},
 	{
 		"name": "pixel-4-uluru",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/W/pixel-4-uluru-_Technastic.com.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4/T/pixel-4-uluru-_Technastic.com.webp",
 		"dimensions": "1080p",
@@ -2647,7 +2782,7 @@
 	},
 	{
 		"name": "Pixel 4a _1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper.webp",
 		"dimensions": "1080p",
@@ -2656,7 +2791,7 @@
 	},
 	{
 		"name": "Pixel 4a_2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_1.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_1.webp",
 		"dimensions": "1080p",
@@ -2665,7 +2800,7 @@
 	},
 	{
 		"name": "Pixel 4a_3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_2.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_2.webp",
 		"dimensions": "1080p",
@@ -2674,7 +2809,7 @@
 	},
 	{
 		"name": "Pixel 4a_4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_3.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_3.webp",
 		"dimensions": "1080p",
@@ -2683,7 +2818,7 @@
 	},
 	{
 		"name": "Pixel 4a_5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_4.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_4.webp",
 		"dimensions": "1080p",
@@ -2692,7 +2827,7 @@
 	},
 	{
 		"name": "Pixel 4a_6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_5.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_5.webp",
 		"dimensions": "1080p",
@@ -2701,7 +2836,7 @@
 	},
 	{
 		"name": "Pixel 4a_7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_6.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_6.webp",
 		"dimensions": "1080p",
@@ -2710,7 +2845,7 @@
 	},
 	{
 		"name": "Pixel 4a_8",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_7.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_7.webp",
 		"dimensions": "1080p",
@@ -2719,7 +2854,7 @@
 	},
 	{
 		"name": "Pixel 4a_9",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_8.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_8.webp",
 		"dimensions": "1080p",
@@ -2728,7 +2863,7 @@
 	},
 	{
 		"name": "Pixel 4a_10",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_9.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_9.webp",
 		"dimensions": "1080p",
@@ -2737,7 +2872,7 @@
 	},
 	{
 		"name": "Pixel 4a_11",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_10.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_10.webp",
 		"dimensions": "1080p",
@@ -2746,7 +2881,7 @@
 	},
 	{
 		"name": "Pixel 4a_11",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "",
 		"thumbnail": "",
 		"dimensions": "1080p",
@@ -2755,7 +2890,7 @@
 	},
 	{
 		"name": "Pixel 5_1",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/1.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/1.webp",
 		"dimensions": "1080p",
@@ -2764,7 +2899,7 @@
 	},
 	{
 		"name": "Pixel 5_2",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper2.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper2.webp",
 		"dimensions": "1080p",
@@ -2773,7 +2908,7 @@
 	},
 	{
 		"name": "Pixel 5_3",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper3.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper3.webp",
 		"dimensions": "1080p",
@@ -2782,7 +2917,7 @@
 	},
 	{
 		"name": "Pixel 5_4",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper4.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper4.webp",
 		"dimensions": "1080p",
@@ -2791,7 +2926,7 @@
 	},
 	{
 		"name": "Pixel 5_5",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper5.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper5.webp",
 		"dimensions": "1080p",
@@ -2800,7 +2935,7 @@
 	},
 	{
 		"name": "Pixel 5_6",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper6.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper6.webp",
 		"dimensions": "1080p",
@@ -2809,7 +2944,7 @@
 	},
 	{
 		"name": "Pixel 5_7",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper7.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper7.webp",
 		"dimensions": "1080p",
@@ -2818,7 +2953,7 @@
 	},
 	{
 		"name": "Pixel 5_8",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper8.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper8.webp",
 		"dimensions": "1080p",
@@ -2827,7 +2962,7 @@
 	},
 	{
 		"name": "Pixel 5_9",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper9.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper9.webp",
 		"dimensions": "1080p",
@@ -2836,7 +2971,7 @@
 	},
 	{
 		"name": "Pixel 5_10",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper10.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper10.webp",
 		"dimensions": "1080p",
@@ -2845,7 +2980,7 @@
 	},
 	{
 		"name": "Pixel 5_11",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper11.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper11.webp",
 		"dimensions": "1080p",
@@ -2854,7 +2989,7 @@
 	},
 	{
 		"name": "Pixel 5_12",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/W/wallpaper12.png",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-5/T/wallpaper12.webp",
 		"dimensions": "1080p",
@@ -2863,7 +2998,7 @@
 	},
 	{
 		"name": "Pixel 4a_12",
-		"author": "Satyakiran",
+		"author": "GWalls",
 		"url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/W/Pixel4a_wallpaper_11.jpg",
 		"thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Category%202/Pixels/Pixel-4a/T/Pixel4a_wallpaper_11.webp",
 		"dimensions": "1080p",
