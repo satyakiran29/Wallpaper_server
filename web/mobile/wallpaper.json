@@ -1,6 +1,102 @@
 {
     "wallpapers": [
         {
+            "name": "Vinland Saga 1403 x 2000",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vinland%20Saga%201403%20x%202000.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vinland%20Saga%201403%20x%202000.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vinland Saga 3000 x 3000",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vinland%20Saga%203000%20x%203000.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vinland%20Saga%203000%20x%203000.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vocaloid 1080 x 1920 (2)",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vocaloid%201080%20x%201920%20(2).jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vocaloid%201080%20x%201920%20(2).webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vocaloid 1080 x 1920 (3)",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vocaloid%201080%20x%201920%20(3).jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vocaloid%201080%20x%201920%20(3).webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vocaloid 1080 x 1920",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vocaloid%201080%20x%201920.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vocaloid%201080%20x%201920.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vocaloid 1440 x 2560",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vocaloid%201440%20x%202560.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vocaloid%201440%20x%202560.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Vocaloid 2160 x 3840",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Vocaloid%202160%20x%203840.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Vocaloid%202160%20x%203840.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "WEG 728 x 1456",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/WEG%20728%20x%201456.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/WEG%20728%20x%201456.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Yotsuba 2250 × 4000",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Yotsuba%202250%20%C3%97%204000.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Yotsuba%202250%20%C3%97%204000.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Your name (2)",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Your%20name%20(2).jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Your%20name%20(2).webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Your Name 1975 x 2700",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Your%20Name%201975%20x%202700.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Your%20Name%201975%20x%202700.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
+            "name": "Your Name",
+            "author": "Gwalls",
+            "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/W/Your%20Name.jpg",
+            "thumbnail": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_19/P/Your%20Name.webp",
+            "copyright": "Free",
+            "collections": "Anime"
+        },
+        {
             "name": "Vinland Saga 1554 x 2350",
             "author": "GWalls",
             "url": "https://server.skdev1.workers.dev/0:/GW/Mobile/Random/Anime_18/W/Vinland%20Saga%201554%20x%202350.png",
