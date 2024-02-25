@@ -1,6 +1,24 @@
 {
     "wallpapers": [
         {
+            "name": "Tree",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/4.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/4.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/4.jpg",
+            "copyright": "Free",
+            "collections": "others"
+        },
+        {
+            "name": "Luffy",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/2.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/2.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/2.jpg",
+            "copyright": "Free",
+            "collections": "anime"
+        },
+        {
             "name": "Colorfull Buliding",
             "author": "Depth_Wallpapers_official",
             "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/20.png",
@@ -16,7 +34,7 @@
             "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/1.jpg",
             "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/1.jpg",
             "copyright": "Free",
-            "collections": "Anime"
+            "collections": "anime"
         }
         
     ]}
