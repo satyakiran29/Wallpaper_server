@@ -1,6 +1,46 @@
 {
     "wallpapers": [
         {
+            "name": "Wolf",
+            "author": "Dro's zone!",
+            "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/R4/W/wolf.png",
+            "thumbnail": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/P/wolf.webp",
+            "copyright": "Free",
+            "collections": "Others"
+        },
+        {
+            "name": "Transformer",
+            "author": "Dro's zone!",
+            "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/R4/W/transformer.png",
+            "thumbnail": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/P/transformer.webp",
+            "copyright": "Free",
+            "collections": "Others"
+        },
+        {
+            "name": "Tech",
+            "author": "Dro's zone!",
+            "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/R4/W/tech.png",
+            "thumbnail": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/P/tech.webp",
+            "copyright": "Free",
+            "collections": "Others"
+        },
+        {
+            "name": "stray",
+            "author": "Dro's zone!",
+            "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/R4/W/stray.png",
+            "thumbnail": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/P/stray.webp",
+            "copyright": "Free",
+            "collections": "Games"
+        },
+        {
+            "name": "StarWars",
+            "author": "Dro's zone!",
+            "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/R4/W/starwars.png",
+            "thumbnail": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random2/P/starwars.webp",
+            "copyright": "Free",
+            "collections": "Games"
+        },
+        {
             "name": "Shinobu 2184 × 3508",
             "author": "Gwalls",
             "url": "https://server.skdev29.workers.dev/0:/GW/Mobile/Random/Anime_17/W/Shinobu%202184%20%C3%97%203508%20.png",
