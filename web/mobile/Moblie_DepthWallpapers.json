@@ -1,6 +1,15 @@
 {
     "wallpapers": [
         {
+            "name": "Mortal Kombat",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/3.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/3.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/3.jpg",
+            "copyright": "Free",
+            "collections": "others"
+        },
+        {
             "name": "Tree",
             "author": "Dro's zone!",
             "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/4.png",
