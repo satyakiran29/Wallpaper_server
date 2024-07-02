@@ -1,0 +1,49 @@
+{
+    "wallpapers": [
+        {
+            "name": "Mortal Kombat",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/3.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/3.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/3.jpg",
+            "copyright": "Free",
+            "collections": "gaming"
+        },
+        {
+            "name": "Tree",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/4.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/4.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/4.jpg",
+            "copyright": "Free",
+            "collections": "others"
+        },
+        {
+            "name": "Luffy",
+            "author": "Dro's zone!",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/2.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/2.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/2.jpg",
+            "copyright": "Free",
+            "collections": "anime"
+        },
+        {
+            "name": "Colorfull Buliding",
+            "author": "Depth_Wallpapers_official",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/20.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/20.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/photo_2024-02-03_20-36-35.jpg",
+            "copyright": "Free",
+            "collections": ""
+        },
+        {
+            "name": "Gojo",
+            "author": "Depth_Wallpapers_official",
+            "forground": "https://server.skdev29.workers.dev/0:/GW_Depth/Fore/1.png",
+            "background": "https://server.skdev29.workers.dev/0:/GW_Depth/Back/1.jpg",
+            "preview": "https://server.skdev29.workers.dev/0:/GW_Depth/P/1.jpg",
+            "copyright": "Free",
+            "collections": "anime"
+        }
+        
+    ]}
